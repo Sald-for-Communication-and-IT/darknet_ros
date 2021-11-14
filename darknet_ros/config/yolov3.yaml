@@ -10,43 +10,43 @@ yolo_model:
     names:
       - person
       - bicycle
-      - car
-      - motorbike
-      - aeroplane
-      - bus
-      - train
-      - truck
-      - boat
-      - traffic light
-      - fire hydrant
-      - stop sign
-      - parking meter
+      - background
+      - background
+      - background
+      - background
+      - background
+      - background
+      - background
+      - background
+      - background
+      - background
+      - background
       - bench
       - bird
       - cat
       - dog
-      - horse
-      - sheep
-      - cow
-      - elephant
-      - bear
-      - zebra
-      - giraffe
+      - background
+      - background
+      - background
+      - background
+      - background
+      - background
+      - background
       - backpack
       - umbrella
       - handbag
       - tie
       - suitcase
       - frisbee
-      - skis
-      - snowboard
+      - background
+      - background
       - sports ball
-      - kite
-      - baseball bat
-      - baseball glove
-      - skateboard
-      - surfboard
-      - tennis racket
+      - background
+      - background
+      - background
+      - background
+      - background
+      - background
       - bottle
       - wine glass
       - cup
@@ -67,7 +67,7 @@ yolo_model:
       - chair
       - sofa
       - pottedplant
-      - bed
+      - background
       - diningtable
       - toilet
       - tvmonitor
